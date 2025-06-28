@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Manager Pro - برنامج إدارة المشاريع
 
 ![Project Manager Pro](./design_assets/color_palette.png)
@@ -213,3 +214,6 @@ git push origin v1.0.0
 - 🔄 تقارير متقدمة
 - 🔄 إشعارات ذكية
 
+=======
+# project-manager-pro
+>>>>>>> fc83f213eb85bdff3b58a34e9f1336bc55301ae6
